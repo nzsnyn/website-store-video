@@ -1,3 +1,12 @@
+# Hi there, I'm Nathanael Zamora Satria Nugroho 👋
+
+Full-stack developer (Python, Node.js, TS) | Intern @ PT Cipta Sistem Solusindo | CS Student @ UKSW | Semarang, Indonesia
+
+- 🔭 I’m currently working on web & mobile projects
+- 🌱 I’m learning system design, DevOps, and AI integration
+- 💬 Ask me about Python, FastAPI, Next.js, or TypeScript
+- 📫 Reach me at nathanaelzamora.business@gmail.com
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
